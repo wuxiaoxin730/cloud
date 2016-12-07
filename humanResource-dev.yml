@@ -1,3 +1,21 @@
-config:
-  example:
-    name: My Example Configuration
+employees:
+  - employeeId: 0001
+    name: Tom
+    age: 25
+  - employeeId: 0002
+    name: Jerry
+    age: 26
+  - employeeId: 0003
+    name: Susan
+    age: 24
+  - employeeId: 0004
+    name: Alex
+    age: 28
+  - employeeId: 0005
+    name: Lily
+    age: 25
+  
+employee:
+  employeeId: 0001
+  name: Tom
+  age: 25
