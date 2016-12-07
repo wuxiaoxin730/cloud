@@ -1,3 +1,6 @@
 config:
   example:
-    name: My Example Configuration
+    name: My Example Configuration2222
+
+server:
+  port: 8080
