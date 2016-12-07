@@ -3,4 +3,4 @@ config:
     name: My Example Configuration2222
 
 server:
-  port: 8080
+  port: 8081
