@@ -17,6 +17,9 @@ employees:
   - employeeId: 0006
     name: Lucy
     age: 21
+  - employeeId: 0007
+    name: Bull
+    age: 22
   
 employee:
   employeeId: 0001
