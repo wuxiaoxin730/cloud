@@ -1,27 +1,27 @@
 employees:
-  - employeeId: 0001
+  - employeeId: 1
     name: Tom
     age: 25
-  - employeeId: 0002
+  - employeeId: 2
     name: Jerry
     age: 26
-  - employeeId: 0003
+  - employeeId: 3
     name: Susan
     age: 24
-  - employeeId: 0004
+  - employeeId: 4
     name: Alex
     age: 28
-  - employeeId: 0005
+  - employeeId: 5
     name: Lily
     age: 25
-  - employeeId: 0006
+  - employeeId: 6
     name: Lucy
     age: 21
-  - employeeId: 0007
+  - employeeId: 7
     name: Bull
     age: 22
   
 employee:
-  employeeId: 0001
+  employeeId: 1
   name: Tom
   age: 25
