@@ -1,15 +1,15 @@
 salaries:
-  - employeeId: 0001
+  - employeeId: 1
     amount: 1000
-  - employeeId: 0002
+  - employeeId: 2
     amount: 2000
-  - employeeId: 0003
+  - employeeId: 3
     amount: 1200.4
-  - employeeId: 0004
+  - employeeId: 4
     amount: 3000.4
-  - employeeId: 0005
+  - employeeId: 5
     amount: 5000
-  - employeeId: 0006
+  - employeeId: 6
     amount: 3100.3
-  - employeeId: 0007
+  - employeeId: 7
     amount: 2200.5
