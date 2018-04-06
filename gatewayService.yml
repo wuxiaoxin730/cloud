@@ -1,0 +1,16 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: my_route
+        uri: https://blog.csdn.net/gebitan505/article/details/70154019
+        predicates:
+        - Path=/a/**
+      - id: my_route2
+        uri: https://blog.csdn.net/tbdp6411/article/details/50779830
+        predicates:
+        - Path=/b/**
+      - id: my_route3
+        uri: http://cloud.spring.io/spring-cloud-static/spring-cloud-netflix/2.0.0.M8/multi/multi_spring-cloud-netflix.html
+        predicates:
+        - Path=/c/**
