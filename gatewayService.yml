@@ -18,3 +18,7 @@ spring:
         uri: http://www.sina.com.cn
         predicates:
         - Path=/d/**
+      - id: my_route5
+        uri: http://map.baidu.com
+        predicates:
+        - Path=/e/**
